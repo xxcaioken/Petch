@@ -1,0 +1,7 @@
+{
+  "name": "PetCh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
